@@ -1,2 +1,3 @@
 # raytracing
- rudemnetry raytracing algorithm
+ rudemnetry raytracing algorithm running on multiple CPU cores
+
